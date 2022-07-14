@@ -113,4 +113,7 @@ buildNumber.properties
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
+#Servers
+Servers/
+
 # End of https://www.toptal.com/developers/gitignore/api/eclipse,java,maven
